@@ -14,11 +14,11 @@ Then, open the config.json file and replace `<YOUR MKCENTRAL USERNAME>` with you
   "game": "mkworld"
 }
 ```
-Open the latest version of OBS and add a Browser Source in the *Sources* tab and give it whatever name you want.
+Open the latest version of OBS and add a Browser Source in the *Sources* tab and give it whatever name you want.  
 ![Browser Source](https://i.imgur.com/7AARiS1.png)
-![Create Browser Source](https://i.imgur.com/SZqUwIS.png)  
-Check the *Local file* option and select the *index.html* file from the repository. Set the **width** property to `92` and the **height** property to `37`.
-![enter image description here](https://i.imgur.com/DNFmGgN.png)  
-Click OK, then resize and move the newly created source to the desired position. Make sure to put it on top of other sources so it can be fully visible.
+![Create Browser Source](https://i.imgur.com/SZqUwIS.png)    
+Check the *Local file* option and select the *index.html* file from the repository. Set the **width** property to `92` and the **height** property to `37`.  
+![enter image description here](https://i.imgur.com/DNFmGgN.png)    
+Click OK, then resize and move the newly created source to the desired position. Make sure to put it on top of other sources so it can be fully visible.  
 ![OBS Selected Source](https://i.imgur.com/NoezSIe.png)
 ![OBS Unselected Source](https://i.imgur.com/nVuVGPJ.png)
